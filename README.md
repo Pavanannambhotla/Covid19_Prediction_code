@@ -34,6 +34,6 @@ This project aims to explore how hybrid deep-learning models can enhance medical
 ## 🚀 How to Run the Notebook
 
 ### **Run in Google Colab**  
-https://colab.research.google.com/github/
+[https://colab.research.google.com/github/](https://colab.research.google.com/github/Pavanannambhotla/Covid19_Prediction_code/blob/main/Covid19_prediction_code_new_final_vgg_resnt_50(29_8_24)(hybrid_modelcode)_(2)_(4)_(1)%20(1).ipynb)
  
 
